@@ -1,0 +1,1 @@
+Installation tutorial: 1. Download all available files, put them all in a folder (organize if possible), 2. Run the main file called "NotepadLite" (.exe), and your brand new notepad is ready to use! I wrote this text using NotepadLite.
